@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# virtual envs
+.venv/
+.venv312/
+
+# big caches / checkpoints
+~/.cache/
+*.safetensors
+*.bin
