@@ -31,9 +31,9 @@ def build_pipeline():
     )
 
 def main():
-    print("🔄 Building sentiment pipeline (safetensors)…")
+    print("Building sentiment pipeline (safetensors)…")
     nlp = build_pipeline()
-    print("✅ Pipeline ready.\n")
+    print("Pipeline is now ready.\n")
 
     samples = [
         "I really love working on this project!",
