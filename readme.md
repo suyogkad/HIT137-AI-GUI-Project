@@ -1,6 +1,6 @@
 # HIT137 – AI GUI Project
 
-This is my Assignment 3 project for the Software Now module (Masters in Data Science, Semester 1).
+This is our Assignment 3 project for the Software Now module (Masters in Data Science, Semester 1).
 The project shows how to use Hugging Face models inside a simple Tkinter GUI application.
 
 ## Features
